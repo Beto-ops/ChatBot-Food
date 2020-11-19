@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "5f8388389c432a20a4229c48"
+  },
+  "input": "Olá",
+  "output": "Olá, eu sou o botFood! O que deseja? Você pode escolher uma das opções: [Frango grelhado] [Alcatra] [Macarrao] [Parmegiana] [Refrigerante]"
+},{
+  "_id": {
+    "$oid": "5f839a2ccf8625234cc417d1"
+  },
+  "input": "Frango grelhado",
+  "output": "ok, Frango grelhado! o valor é R$ 15,00. Quantos você deseja?"
+},{
+  "_id": {
+    "$oid": "5f83b413a8c8883930e9d664"
+  },
+  "input": "Alcatra",
+  "output": "ok, Alcatra! o valor é R$ 20,00. Quantos você deseja?"
+},{
+  "_id": {
+    "$oid": "5f83b424a8c8883930e9d665"
+  },
+  "input": "Macarrao",
+  "output": "ok, Macarrão! o valor é R$ 18,00. Quantos você deseja?"
+},{
+  "_id": {
+    "$oid": "5f83b427a8c8883930e9d666"
+  },
+  "input": "Parmegiana",
+  "output": "ok, Parmegiana! o valor é R$ 30,00. Quantos você deseja?"
+},{
+  "_id": {
+    "$oid": "5f83b42ba8c8883930e9d667"
+  },
+  "input": "Refrigerante",
+  "output": "ok, Refrigerante! Escolha uma das opções: [coca cola]: R$ 10,00. [fanta]: R$ 8,00. [dolly]: R$ 5,00."
+},{
+  "_id": {
+    "$oid": "5f83b51ba8c8883930e9d668"
+  },
+  "input": "Dolly",
+  "output": "ok, Dolly! quantas unidades voce deseja [limitado a 3 un.]?"
+},{
+  "_id": {
+    "$oid": "5f83b5fea8c8883930e9d669"
+  },
+  "input": "1",
+  "output": "Entendido! Para darmos andamento ao pedido por gentileza informe seu primeiro nome e CPF por exemplo: \"Meu nome é Fernanda e meu cpf é 42084365210\""
+},{
+  "_id": {
+    "$oid": "5f83b6a9a8c8883930e9d66a"
+  },
+  "input": "2",
+  "output": "Entendido! Para darmos andamento ao pedido por gentileza informe seu primeiro nome e CPF por exemplo: \"Meu nome é Fernanda e meu cpf é 42084365210\""
+},{
+  "_id": {
+    "$oid": "5f83b6aba8c8883930e9d66b"
+  },
+  "input": "3",
+  "output": "Entendido! Para darmos andamento ao pedido por gentileza informe seu primeiro nome e CPF por exemplo: \"Meu nome é Fernanda e meu cpf é 42084365210\""
+}]
