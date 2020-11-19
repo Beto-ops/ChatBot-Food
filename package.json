@@ -18,11 +18,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ThaynaraCR/botFood.git"
+    "url": "git+https://github.com/Beto-ops/ChatBot-Food.git"
   },
   "bugs": {
-    "url": "https://github.com/ThaynaraCR/botFood/issues"
+    "url": "https://github.com/Beto-ops/ChatBot-Food/issues"
   },
-  "homepage": "https://github.com/ThaynaraCR/botFood#readme",
+  "homepage": "https://github.com/Beto-ops/ChatBot-Food#readme",
   "description": ""
 }
