@@ -5,7 +5,7 @@ const assert = require('assert');
 const bodyParser = require('body-parser');
 
 let db = null;
-const url = 'mongodb://joao:123@localhost:27017?authSource=chatbotdb';
+const url = 'mongodb://beto:123@localhost:27017?authSource=chatbotdb';
 const dbName = 'chatbotdb';
 
 const jsonParser = bodyParser.json();
